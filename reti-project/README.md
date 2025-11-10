@@ -71,31 +71,4 @@ Per i markdown:
 
 - Pagine descrittive usando Jekyll (https://jekyllrb.com/) o Hugo (https://gohugo.io/). Consigliato usare le github pages (https://pages.github.com/)
 
-# Formato consegna
 
-Ogni gruppo deve consegnare tutti i file e la documentazione tramite un servizio git remoto (github, gitlab, ...):
-
-- Creare un repository pubblico!
-
-- Ogni partecipante del gruppo deve essere aggiunto come collaboratore
-
-- Dare nomi significativi ai commit 
- 
-
-# Consegna 
-
-Il progetto va consegnato tramite email al seguente indirizzo bd1726bd.studenti.uniparthenope.it@emea.teams.ms
-
-- Obbligatorio inviare l'email dall'account studente (altrimenti non verrà consegnata)
-
-- Inserire Nome, Cognome e Marticola di tutti i membri del gruppo
-
-- Inserire il link al repository github
-
-- Entro una settimana dall'esame
- 
-# Modalità di esame
-
-L'esame consisterà nella discussione del progetto con possibili domande sulla parte pratica e progettuale e domande di teoria.
-
-I progetti di gruppo devono essere discussi OBBLIGATORIAMENTE da tutti i membri lo stesso giorno.
