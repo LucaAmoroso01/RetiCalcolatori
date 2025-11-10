@@ -1,4 +1,4 @@
-:it:
+# Italiano :it:
 
 # Traccia - Università
 Scrivere un'applicazione client/server parallelo per gestire gli esami universitari
@@ -73,7 +73,7 @@ Per i markdown:
 
 - Pagine descrittive usando Jekyll (https://jekyllrb.com/) o Hugo (https://gohugo.io/). Consigliato usare le github pages (https://pages.github.com/)
 
-English :gb:
+# English :gb:
 # University Assignment
 
 Develop a parallel client/server application to manage university exams
